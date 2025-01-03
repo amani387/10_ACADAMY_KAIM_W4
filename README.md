@@ -80,8 +80,14 @@ This project focuses on predicting daily sales for Rossmann Pharmaceuticals stor
 - Communication and reporting of technical findings
 
 ## References
+![output](https://github.com/user-attachments/assets/08475ab4-9d30-4c1e-930d-1f0ac20f77df)
+![output2](https://github.com/user-attachments/assets/b2a2997f-c89b-4b64-aea8-932168110241)
+![output3](https://github.com/user-attachments/assets/7514ab07-2278-4da8-b2fb-71722ee45c8e)
+![output5](https://github.com/user-attachments/assets/ef1f4e16-49bc-41d3-b06d-7f6d14b38e0f)
+![output6](https://github.com/user-attachments/assets/173d47cc-74fb-4ec3-940d-7a3196a39c48)
 
-- [Rossmann Store Sales Kaggle Dataset](https://www.kaggle.com/c/rossmann-store-sales/data)
+- [Rossmann Store![Uploading output5.png…]()
+ Sales Kaggle Dataset](https://www.kaggle.com/c/rossmann-store-sales/data)
 - [Time Series Forecasting with LSTMs](https://www.kaggle.com)
 - [Auto-Sklearn Documentation](https://automl.github.io/auto-sklearn/master/)
 - [Flask Documentation](https://flask.palletsprojects.com/)
