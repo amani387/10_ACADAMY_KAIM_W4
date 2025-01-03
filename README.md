@@ -88,6 +88,4 @@ This project focuses on predicting daily sales for Rossmann Pharmaceuticals stor
 
 - [Rossmann Store![Uploading output5.png…]()
  Sales Kaggle Dataset](https://www.kaggle.com/c/rossmann-store-sales/data)
-- [Time Series Forecasting with LSTMs](https://www.kaggle.com)
-- [Auto-Sklearn Documentation](https://automl.github.io/auto-sklearn/master/)
-- [Flask Documentation](https://flask.palletsprojects.com/)
+
