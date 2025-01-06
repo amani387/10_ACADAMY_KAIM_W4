@@ -1,0 +1,8 @@
+pandas
+holidays
+numpy
+sickit
+joblib
+scikit-learn
+tensorflow
+
